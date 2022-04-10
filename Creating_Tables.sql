@@ -11,8 +11,7 @@ Create Table Employee_Details (
 	Phone_no	Number(10),
 	E_mail		varchar2(10),
 	Address		varchar2(10),
-	Emp_id		Number(10) Foreign Key references   
-Employees(Emp_id)
+	Emp_id		Number(10) Foreign Key references Employees(Emp_id)
 );
 
 Create Table Accounts(
