@@ -3,7 +3,7 @@ Create Table Employees (
 	Name			varchar2(10),
 	Department		varchar2(10),
 	Designation		varchar2(10),
-	Date_of_joining	Date
+	Date_of_joining		Date
 );
 
 Create Table Employee_Details (
