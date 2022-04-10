@@ -1,0 +1,35 @@
+Insert Into Employees values(1,'Ajay','HR','HR Recruiter','2018/04/23');
+Insert Into Employees values(2,'Jay','Marketing','Media person','2019/04/21');
+Insert Into Employees values(3,'Vidant','Marketing','Media person','2016/03/23');
+Insert Into Employees values(4,'Sourav','R&D','Chief research','2015/07/2');
+Insert Into Employees values(5,'George','HR','HR Manager','2015/03/23');
+Insert Into Employees values(6,'Rohan','R&D','Researcher','2019/07/13');
+Insert Into Employees values(7,'Varun','Tech','Team head','2020/11/3');
+Insert Into Employees values(8,'Dan','IT','Pen tester','2019/06/5');
+Insert Into Employees values(9,'Randy','HR','HR Head','2021/02/23');
+Insert Into Employees values(10,'Brian','IT','Safety officer','2016/09/30');
+Insert Into Employees values(11,'Danny','Accounting','CA','2022/01/31');
+
+Insert Into Employee_Details values('1999/04/23','8530254421','Ajay@gmail.com','House No.2,Rajiv Nagar,Kanpur,U.P.',1);
+Insert Into Employee_Details values('1995/02/28','8093029421','Jay23@gmail.com','House No.6,Gumti - 5,Kanpur,U.P.',2);
+Insert Into Employee_Details values('1993/10/23','8593429421','Vidant@gmail.com','House No.5,Rajiv Nagar,Kanpur,U.P.',3);
+Insert Into Employee_Details values('1996/07/26','7593029421','Sourav4@gmail.com','House No.23,Rajiv Nagar,Kanpur,U.P.',4);
+Insert Into Employee_Details values('1998/01/3','8593029421','George@gmail.com','House No.1,Gumti - 5,Kanpur,U.P.',5);
+Insert Into Employee_Details values('1989/02/30','8593223421','Rohan@gmail.com','House No.25,Rajiv Nagar,Kanpur,U.P.',6);
+Insert Into Employee_Details values('1999/04/26','859355421','Varun4@gmail.com','House No.3,Rajiv Nagar,Kanpur,U.P.',7);
+Insert Into Employee_Details values('1998/07/23','8594029421','Dan6@gmail.com','House No.12/3,Gumti - 5,Kanpur,U.P.',8);
+Insert Into Employee_Details values('1998/04/21','8493029421','Randy@gmail.com','House No.9,Rajiv Nagar,Kanpur,U.P.',9);
+Insert Into Employee_Details values('1998/05/13','8493029421','Brian@gmail.com','House No.9/3,Rajiv Nagar,Kanpur,U.P.',10);
+Insert Into Employee_Details values('1998/04/17','8493029421','Danny@gmail.com','House No.11,Rajiv Nagar,Kanpur,U.P.',11);
+
+Insert Into Accounts values(1500000,12000,4000,1);
+Insert Into Accounts values(1100000,20000,6000,2);
+Insert Into Accounts values(1300000,60000,0,3);
+Insert Into Accounts values(1500000,20100,100,4);
+Insert Into Accounts values(110000,67000,0,5);
+Insert Into Accounts values(1300000,6000,2000,6);
+Insert Into Accounts values(1505000,50000,100,7);
+Insert Into Accounts values(1025000,50000,500,8);
+Insert Into Accounts values(1000000,10000,1000,9);
+Insert Into Accounts values(1600000,63000,8000,10);
+Insert Into Accounts values(140000,10000,5000,11);
